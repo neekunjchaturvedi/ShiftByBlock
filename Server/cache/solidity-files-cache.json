@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\neeku\\OneDrive\\Desktop\\ShiftByBlock\\Server\\contracts\\ShiftLog.sol": {
-      "lastModificationDate": 1756552488773,
-      "contentHash": "b4a584416b43a6d95f8c6ad679a2cca2",
+      "lastModificationDate": 1756561590325,
+      "contentHash": "3abf232d069dadd7938b637756939ede",
       "sourceName": "contracts/ShiftLog.sol",
       "solcConfig": {
         "version": "0.8.9",
